@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {
+      "name": "azure-boards",
+      "version": "1.0.0",
+      "description": "Azure DevOps Boards + full REST API — Boards, Repos, Pipelines, Artifacts, Test via PAT",
+      "files": ["skills/azure-boards/SKILL.md", "references/api.md", "references/full-api.md", "references/security.md"]
+    }
+  ]
+}
